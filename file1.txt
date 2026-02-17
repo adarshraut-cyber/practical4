@@ -1,3 +1,7 @@
 yywquiyqw
 yuiyiqyi
+<<<<<<< HEAD
 iywiuwyi
+=======
+tyutquiy
+>>>>>>> file1
